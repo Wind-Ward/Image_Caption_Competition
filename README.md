@@ -2,7 +2,7 @@
 
 * 参加AI Challenger举办的Image Caption比赛,最终比赛成绩17名。
 
-![image](https://github.com/Wind-Ward/Image_Caption_Competition/master/data/17.png)
+![image](https://github.com/Wind-Ward/Image_Caption_Competition/blob/master/data/17.png)
 * 采用的模型为[***Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning***](https://arxiv.org/pdf/1612.01887.pdf)
 * 代码是在[AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention)基础上加以整改的，添加了Beam Search
 * 最新的Image Caption模型采用强化学习+Attention的模式，往往效果提升的非常明显。
