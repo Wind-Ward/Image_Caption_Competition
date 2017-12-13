@@ -1,6 +1,6 @@
 # AI Challenger Image Caption Competition
 
-* 参加AI Challenger举办的Image Caption比赛,最终比赛成绩17名。
+* 参加[AI Challenger](https://challenger.ai/)举办的[Image Caption](https://challenger.ai/competition/caption)比赛,最终比赛成绩17名。
 
 ![image](https://github.com/Wind-Ward/Image_Caption_Competition/blob/master/data/10.png)
 * 采用的模型为[***Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning***](https://arxiv.org/pdf/1612.01887.pdf)
