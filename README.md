@@ -11,12 +11,22 @@
 
 
 
+## Teammate
+[@Wind-Ward](https://github.com/Wind-Ward)
 
-### Acknowledgement
+[@jasperyang](https://github.com/jasperyang)
+
+
+## Acknowledgement
 
 论文作者[@Jiasen Lu](https://github.com/jiasenlu)
 
 Pytorch[AdaptiveAttention](https://github.com/yufengm/Adaptive)
+
+
+
+
+
 
 
 
